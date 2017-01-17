@@ -1,0 +1,70 @@
+body {
+  font-family: sans-serif;
+}
+
+.title {
+  float: left;
+  margin: 10px;
+  padding: 10px;
+}
+
+
+.nav {
+  display: inline;
+  clear: top;
+  float: right;
+  margin: 10px;
+  padding: 10px;
+}
+
+.tour {
+  width: 30%;
+  clear: left;
+  float: left;
+  background-color: blue;
+  margin: 10px;
+  padding: 10px;
+  color: white;
+}
+
+.news {
+  clear: top;
+  width: 30%;
+  float: left;
+  background-color: pink;
+  margin: 10px;
+  padding: 10px;
+}
+
+.discography {
+  clear: top;
+  width: 30%;
+  float: left;
+  background-color: blue;
+  margin: 10px;
+  padding: 10px;
+  color: white;
+}
+
+.discImg {
+  max-width: 100%;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  background: yellow;
+  text-decoration: overline;
+  background-color: yellow;
+}
+
+a:visited {
+  color: black;
+}
+
+p, ul {
+  font-family: monospace;
+}
